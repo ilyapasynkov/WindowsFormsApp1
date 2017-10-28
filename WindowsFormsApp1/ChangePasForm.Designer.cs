@@ -1,5 +1,6 @@
 ﻿namespace WindowsFormsApp1
 {
+     //Тест гита с сайта и синхр
     partial class ChangePasForm
     {
         /// <summary>
