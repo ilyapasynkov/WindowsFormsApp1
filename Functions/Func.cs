@@ -11,7 +11,7 @@ namespace Functions
     {
 
         public static string Key { get; set; }
-        public static int PopytkaNum { get; set; }
+        public static int PopytkaNum { get; set; } = 2;
 
         const string Path = "\\test.txt";
 

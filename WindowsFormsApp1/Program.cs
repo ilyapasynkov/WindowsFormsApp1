@@ -14,7 +14,6 @@ namespace WindowsFormsApp1
         [STAThread]
         static void Main()
         {
-            Func.PopytkaNum = 2; // Инициализация попыток.
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new LogForm());
